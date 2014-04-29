@@ -1,7 +1,9 @@
-#include "Public\Public.h"
+
 #include <windows.h>
 
-int main(int argc, WCHAR* argv[])
+#include "..\Public\Public.h"
+
+int smain(int argc, WCHAR* argv[])
 {
 	return 0;
 }
