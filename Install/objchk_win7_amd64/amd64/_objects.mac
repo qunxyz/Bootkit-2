@@ -1,0 +1,16 @@
+
+
+AMD64_OBJECTS=\
+ $(OBJ_PATH)\$O\install.obj \
+
+
+
+
+
+# lowercased
+BASEDIR=c:\winddk\7600.16385.0
+OBJECT_ROOT=c:\winddk\7600.16385.0
+MAKEDIR_LOWERCASE=c:\bootkit\bootkit\install
+OBJ_PATH=c:\bootkit\bootkit\install
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0
